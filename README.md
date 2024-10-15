@@ -1,4 +1,4 @@
-##안녕하십니까
+## 안녕하십니까
 
 <!--
 **yunseo0406/yunseo0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
