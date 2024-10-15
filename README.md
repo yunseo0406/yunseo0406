@@ -1,4 +1,4 @@
-## Hi there 👋
+##안녕하십니까
 
 <!--
 **yunseo0406/yunseo0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>안녕하십니까</h1>
-<h6>저는 이윤서 입니다 ㅎㅅㅎ</h6>
+<h1>저는 윤서에용</h1>
