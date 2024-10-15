@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/.y._.seo/.profiledcard" target="_blank"><img src="https://img.shields.io/badge/insta?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/y._.seo/profiledcard" target="_blank"><img src="https://img.shields.io/badge/instagram?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
 
 
